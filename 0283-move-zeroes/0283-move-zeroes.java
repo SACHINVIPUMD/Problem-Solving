@@ -4,8 +4,7 @@ class Solution {
         int j=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=0){
-                dp[j]=nums[i];
-                j++;
+                dp[j++]=nums[i];
             }
         }
         for(int i=0;i<nums.length;i++){
