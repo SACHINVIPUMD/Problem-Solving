@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0238-product-of-array-except-self) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
