@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0283-move-zeroes) |
+| [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
