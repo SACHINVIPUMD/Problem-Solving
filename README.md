@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
