@@ -12,7 +12,9 @@ class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode temp1 = l1;
         ListNode temp2 = l2;
-        List<Integer> list = new ArrayList();
+        // ListNode dummy = new ListNode(0);
+        ListNode dummy = new ListNode(0);
+        ListNode head = dummy;
         int carry = 0;
         int num = 0;
         while(temp1 != null || temp2!=null){
@@ -29,7 +31,8 @@ class Solution {
                 num = num%10;
                 carry = 1;
             }
-            list.add(num);
+            dummy.next = new ListNode(num);
+            dummy = dummy.next;
             if(temp1!=null){
                 temp1 = temp1.next;
             }
@@ -38,15 +41,8 @@ class Solution {
             }
         }
         if(carry ==1){
-            list.add(1);
+            dummy.next = new ListNode(carry);
         }
-        ListNode head = new ListNode(list.get(0));
-        ListNode current = head;
-        for(int i=1;i<list.size();i++){
-            ListNode newnode = new ListNode(list.get(i));
-            current.next = newnode;
-            current = current.next;
-        }
-        return head;
+        return head.next;
     }
 }
