@@ -36,7 +36,7 @@ class Solution {
         }
         
         // prev is the node just before the one to remove
-        prev.next = slow.next;
+        prev.next = prev.next.next;
         
         return head;
     }
