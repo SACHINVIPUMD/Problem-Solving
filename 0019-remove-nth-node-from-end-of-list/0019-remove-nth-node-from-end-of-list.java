@@ -10,18 +10,34 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
-        ListNode fast=dummy;
-        ListNode slow=dummy;
-        for(int i=0;i<=n;i++){
-            fast=fast.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+        
+        // Move fast pointer n steps ahead
+        while(n > 0) {
+            if (fast == null) {
+                return head;  // If n is larger than the length of the list, return original head
+            }
+            fast = fast.next;
+            n--;
         }
-        while(fast!=null){
-            fast=fast.next;
-            slow=slow.next;
+        
+        // If fast is null, it means we need to remove the head node
+        if (fast == null) {
+            return head.next;
         }
-        slow.next=slow.next.next;
-        return dummy.next;
+        
+        // Move both fast and slow pointers until fast reaches the end
+        while(fast != null) {
+            prev = slow;
+            fast = fast.next;
+            slow = slow.next;
+        }
+        
+        // prev is the node just before the one to remove
+        prev.next = slow.next;
+        
+        return head;
     }
 }
