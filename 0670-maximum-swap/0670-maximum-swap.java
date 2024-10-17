@@ -1,13 +1,13 @@
 class Solution {
     public int maximumSwap(int num) {
         char[] arr = (Integer.toString(num)).toCharArray();
-        int max = -1,x=-1,y=-1;
+        int maxIndex = -1,x=-1,y=-1;
         for(int i=arr.length-1;i>=0;i--){
-            if(max == -1 || arr[i]>arr[max]){
-                max = i;
+            if(maxIndex == -1 || arr[i]>arr[maxIndex]){
+                maxIndex = i;
             }
-            else if(arr[i]<arr[max]){
-                x = max;
+            else if(arr[i]<arr[maxIndex]){
+                x = maxIndex;
                 y = i;
             }
         }
