@@ -103,10 +103,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
