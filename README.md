@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 ## Design
 |  |
