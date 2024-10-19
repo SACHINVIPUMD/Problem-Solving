@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0670-maximum-swap) |
 ## Two Pointers
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
