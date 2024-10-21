@@ -5,12 +5,12 @@ class Solution {
         while(left<right){
             int mid = (left+right)/2;
             if(nums[mid]>nums[mid+1]){
-                right=mid;
+                right = mid;
             }
             else{
                 left = mid+1;
             }
         }
-        return left;
+        return  right;
     }
 }
