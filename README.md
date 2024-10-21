@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
