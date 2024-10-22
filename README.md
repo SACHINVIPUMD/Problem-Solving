@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0943-sum-of-subarray-minimums) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
