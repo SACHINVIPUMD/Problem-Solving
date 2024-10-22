@@ -12,7 +12,7 @@ class Solution {
                 maxFreq = freq.get(nums[i]);
                 minLen = i-firstIndx.get(nums[i])+1;
             }
-            else if(freq.get(nums[i]) == maxFreq){
+            if(freq.get(nums[i]) == maxFreq){
                 minLen = Math.min(minLen,i-firstIndx.get(nums[i])+1);
             }
         }
