@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
