@@ -147,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Enumeration
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
