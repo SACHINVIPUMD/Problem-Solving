@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
