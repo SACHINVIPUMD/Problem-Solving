@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0162-find-peak-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
