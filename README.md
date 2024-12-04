@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
 ## Binary Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
