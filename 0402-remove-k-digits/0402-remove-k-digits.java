@@ -8,7 +8,7 @@ class Solution {
             }
             st.push(num.charAt(i));
         }
-        while(k>0 && !st.isEmpty()){
+        while(!st.isEmpty() && k>0){
             st.pop();
             k--;
         }
@@ -17,13 +17,12 @@ class Solution {
             result.append(st.pop());
         }
         result.reverse();
-        while(result.length()>1 && result.charAt(0)=='0'){
-           result.deleteCharAt(0);
+        while(result.length()>1 && result.charAt(0) == '0'){
+            result.deleteCharAt(0);
         }
-        if(result.length()==0){
+        if(result.length() == 0){
             return "0";
         }
         return result.toString();
-        
     }
 }
