@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0943-sum-of-subarray-minimums) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0943-sum-of-subarray-minimums) |
 ## Queue
 |  |
