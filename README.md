@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0969-number-of-recent-calls) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
