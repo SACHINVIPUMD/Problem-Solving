@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0670-maximum-swap) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
