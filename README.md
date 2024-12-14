@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0494-target-sum) |
 ## Matrix
