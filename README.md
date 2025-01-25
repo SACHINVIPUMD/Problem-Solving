@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0494-target-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
 ## Stack
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
@@ -356,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
