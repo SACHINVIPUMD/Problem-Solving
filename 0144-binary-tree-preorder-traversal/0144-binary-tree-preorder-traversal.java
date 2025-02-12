@@ -13,9 +13,8 @@
  *     }
  * }
  */
-//root left right
 class Solution {
-    public void preorder(TreeNode root,List<Integer> ans){
+    public static void preorder(TreeNode root,List<Integer> ans){
         if(root == null){
             return;
         }
