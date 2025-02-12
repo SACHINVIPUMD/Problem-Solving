@@ -16,6 +16,7 @@
 class Solution {
     public int maxPathSum(TreeNode root) {
         int[] pathsum = new int[1];
+        pathsum[0] = Integer.MIN_VALUE;
         height(root,pathsum);
         return pathsum[0];
     }
