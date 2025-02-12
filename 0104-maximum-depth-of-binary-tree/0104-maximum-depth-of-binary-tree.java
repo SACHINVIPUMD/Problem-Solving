@@ -13,30 +13,16 @@
  *     }
  * }
  */
- 
 class Solution {
     public int maxDepth(TreeNode root) {
-        int count = 0;
+        return dfs(root);
+    }
+    public int dfs(TreeNode root){
         if(root == null){
-            return count;
+            return 0;
         }
-        Queue<TreeNode> q = new LinkedList();
-        q.offer(root);
-        while(!q.isEmpty()){
-            count++;
-            int size = q.size();
-            List<Integer> list = new ArrayList();
-            for(int i=0;i<size;i++){
-                if(q.peek().left!=null){
-                    q.offer(q.peek().left);
-                }
-                if(q.peek().right!=null){
-                    q.offer(q.peek().right);
-                }
-                list.add(q.poll().val);
-            }
-            // ans.add(list);
-        }
-        return count;
+        int left = 1+dfs(root.left);
+        int right = 1+dfs(root.right);
+        return Math.max(left,right);
     }
 }
