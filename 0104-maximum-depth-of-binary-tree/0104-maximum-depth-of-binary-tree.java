@@ -16,12 +16,27 @@
  
 class Solution {
     public int maxDepth(TreeNode root) {
+        int count = 0;
         if(root == null){
-            return 0;
+            return count;
         }
-        int lh = maxDepth(root.left);
-        int rh = maxDepth(root.right);
-
-        return 1+Math.max(lh,rh);
+        Queue<TreeNode> q = new LinkedList();
+        q.offer(root);
+        while(!q.isEmpty()){
+            count++;
+            int size = q.size();
+            List<Integer> list = new ArrayList();
+            for(int i=0;i<size;i++){
+                if(q.peek().left!=null){
+                    q.offer(q.peek().left);
+                }
+                if(q.peek().right!=null){
+                    q.offer(q.peek().right);
+                }
+                list.add(q.poll().val);
+            }
+            // ans.add(list);
+        }
+        return count;
     }
 }
