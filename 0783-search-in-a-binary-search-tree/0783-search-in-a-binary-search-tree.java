@@ -30,6 +30,5 @@ class Solution {
         else{
             return search(root.right,val);
         }
-        // return null;
     }
 }
