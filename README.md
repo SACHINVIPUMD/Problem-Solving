@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2411-spiral-matrix-iv](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2411-spiral-matrix-iv) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
