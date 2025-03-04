@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0670-maximum-swap) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
