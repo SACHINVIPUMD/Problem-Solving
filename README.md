@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2383-add-two-integers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
