@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2411-spiral-matrix-iv](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
