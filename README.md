@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3195-separate-black-and-white-balls](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
 | ------- |
