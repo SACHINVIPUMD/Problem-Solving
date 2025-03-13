@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0494-target-sum) |
 ## Matrix
