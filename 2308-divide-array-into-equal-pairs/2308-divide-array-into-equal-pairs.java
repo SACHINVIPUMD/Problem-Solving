@@ -1,13 +1,10 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public boolean divideArray(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int[] freq = new int[501];
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            freq[num]++;
         }
-        for (int count : map.values()) {
+        for (int count : freq) {
             if (count % 2 != 0) {
                 return false;
             }
