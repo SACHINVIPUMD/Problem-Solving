@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2308-divide-array-into-equal-pairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0078-subsets) |
+| [2308-divide-array-into-equal-pairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
