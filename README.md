@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0697-degree-of-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
