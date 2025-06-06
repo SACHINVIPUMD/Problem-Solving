@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0204-count-primes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0605-can-place-flowers) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
