@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0605-can-place-flowers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
 | [1304-longest-happy-string](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/1304-longest-happy-string) |
 ## Stack
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0502-ipo](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0502-ipo) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SACHINVIPUMD/Problem-Solving/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
